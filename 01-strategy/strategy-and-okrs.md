@@ -26,6 +26,6 @@
 
 ## 4. AI pressure-test
 
-**Most valid challenge:** _____
+**Most valid challenge:** The first one. If most stress comes without warning, or big events happen only every few years, people have no reason to pay in between. The whole strategy rests on this.
 
-**What I will change and what I will defend:** _____
+**What I will change and what I will defend:** I will change two things. I'll fix the hard no so it's honest that event plans are new content. I'll add a KR on whether users felt ready, instead of just counting events added. I will defend the core idea of reaching out before stress hits, because no competitor does it. Before building, I'll test it by checking how many churned users joined because of a predictable event.
